@@ -22,14 +22,13 @@ InstantMeme Creator is a web-based application designed to allow users to create
 Check out the live demo of the Instant-MemeGenerator here.
 https://instant-meme-creator-1ir1.vercel.app/
 
-![App Screenshot]()
-
-
-![Uploading Screenshot (178).png…]()
+![Screenshot (178)](https://github.com/Samridhii1212/Instant-MemeCreator/assets/115480641/a8e6753c-3322-4453-a453-120950d6acc2)
 
 
 
 
+
+![Screenshot (179)](https://github.com/Samridhii1212/Instant-MemeCreator/assets/115480641/231ec614-e991-41e6-b4f0-f8d4aec65f09)
 
 ## Usage
 - **Open the Application.**
