@@ -25,11 +25,6 @@ https://instant-meme-creator-1ir1.vercel.app/
 ![Screenshot (178)](https://github.com/Samridhii1212/Instant-MemeCreator/assets/115480641/a8e6753c-3322-4453-a453-120950d6acc2)
 
 
-
-
-
-![Screenshot (179)](https://github.com/Samridhii1212/Instant-MemeCreator/assets/115480641/231ec614-e991-41e6-b4f0-f8d4aec65f09)
-
 ## Usage
 - **Open the Application.**
 - **Select a Meme Template:** Click on a template that you want to use as the base for your meme. Once selected, the template will load into the page for customization.
